@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "故郷 (独唱)",
+  "base_artist": "宮川安利",
+  "createdAt": "2026-02-21T06:27:41.472601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "故郷 (独唱)",
+      "artist": "宮川安利",
+      "has_synced": false,
+      "path": "select/pl_01_故郷_(独唱)_宮川安利.txt"
+    }
+  ]
+}
